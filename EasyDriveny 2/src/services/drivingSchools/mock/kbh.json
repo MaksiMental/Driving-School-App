@@ -1,0 +1,183 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.66053112098533,
+          "lng": 12.516651826122724
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          },
+          "southwest": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          }
+        }
+      },
+      "name": "Mortens Køreskole 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 4 ,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Gammelkøgelandevej 1"
+    }, {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 55.69045392260565, 
+          "lng": 12.509607226570246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.62457506003352,
+            "lng": 12.406026477532995
+          },
+          "southwest": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          }
+        }
+      },
+      "name": "Metins Køreskole 1",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 5 ,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Morsøvej 15"
+    }, {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.667444573887494,
+          "lng": 12.531712835787046
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.61957506003352,
+            "lng": 12.426026477532995
+          },
+          "southwest": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          }
+        }
+      },
+      "name": "Carls Køreskole 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 3 ,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Carlsberg byen 21"
+    }, {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.69169120459862,
+          "lng": 12.540263073259778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.61457506003352,
+            "lng": 12.446026477532995
+          },
+          "southwest": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          }
+        }
+      },
+      "name": "Steffans Køreskole 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 2 ,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Steffansvej 4"
+    }, {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 55.683306812847576, 
+          "lng": 12.534226686187667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          },
+          "southwest": {
+            "lat": 55.61957506003352,
+            "lng": 12.406026477532995
+          }
+        }
+      },
+      "name": "Mikkels Køreskole 1",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 1 ,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "Rolfgade 1"
+    }
+  ],
+  "status": "OK"
+}
